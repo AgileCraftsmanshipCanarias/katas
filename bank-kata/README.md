@@ -17,9 +17,13 @@ Create a simple bank application with the following features
 ### Acceptance criteria
 
 Given a client makes a deposit of 1000 on 20/01/2022
+
 And a deposit of 2000 on 23/01/2022
+
 And a withdrawal of 500 on 24/01/2022
+
 When she prints her bank statement  
+
 Then she would see at the terminal
 
 ```
